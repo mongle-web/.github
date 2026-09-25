@@ -46,7 +46,7 @@ Closes #
 
 | Before | After |
 | --- | --- |
-|  |  |
+
 
 ---
 
